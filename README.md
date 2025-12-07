@@ -13,8 +13,8 @@ options:
 ## progress
 
 
-- **day01:** 02/12/25, part1 20', part2 
-- **day02:** 02/12/25, part1, part2 
+- **day01:** 02/12/25, part1 20', part2 15'
+- **day02:** 08/12/25, part1 15', part2 20' + HyperNeutrino
 - **day03:** 03/12/25, part1, part2 
 - **day04:** 04/12/25, part1, part2 
 - **day05:** 05/12/25, part1, part2 
